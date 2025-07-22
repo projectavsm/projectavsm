@@ -43,8 +43,8 @@ Includes login, roles, admin tools, moderation, multi-language, and privacy feat
 #### 🤖 [Line Following Robot](https://github.com/projectavsm/line-follower)
 A simple robot that uses IR sensors and PID control for autonomous navigation.
 
-#### 📊 [SQL + Flask Project](https://github.com/projectavsm/sql-mini-projects)
-Practical mini web apps using Flask + MySQL – includes secure login, form validation, and triggers.
+#### 📊 [SQL + Flask Project](https://github.com/projectavsm/ecommerce)
+Practical mini web app using Flask + MySQL – includes secure login, form validation, and triggers.
 
 ---
 
